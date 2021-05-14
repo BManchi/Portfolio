@@ -37,7 +37,7 @@ a text-based role-playing game with a complex history evolution and user interac
 ### Soft Competencies
 
 - Teamwork
-- Ability to work under preassure
+- Ability to work under pressure
 - Adaptable/Flexible
 - Honest
 - Responsible
