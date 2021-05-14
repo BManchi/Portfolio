@@ -2,9 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Main Proyects 
 
 [Tercer Ojo](https://drive.google.com/file/d/1jiyhkCIRd9wTdX2ASREL40ajRrx3T_yP/view)
+
 <img src="images/TercerOjo_demo.gif"/>
 
 ---
@@ -17,7 +18,7 @@
 
 ---
 
-### Category Name 2
+### Other relevant proyects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
