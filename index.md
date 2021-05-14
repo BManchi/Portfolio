@@ -6,7 +6,7 @@
 
 [Tercer Ojo](https://drive.google.com/file/d/1jiyhkCIRd9wTdX2ASREL40ajRrx3T_yP/view)
 <p></p>
-<img src="images/TercerOjo_demo.gif" height=340/>
+<img src="images/TercerOjo_demo.gif" height=400/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
