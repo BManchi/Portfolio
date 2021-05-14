@@ -24,11 +24,9 @@ a text-based role playing game with a complex history evolution and user interac
 
 ### Other relevant proyects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Task Timer](https://github.com/BManchi/TaskTimer) stores Tasks data in an SQLite database, recording how long it was spend in each task.
+- [FlickrBrowser](https://github.com/BManchi/FlickrBrowser) queries Flickr.com images through Json.
+- [Calculator](https://github.com/BManchi/Calculator) is developed with integrated keyboard wich adapts to screen size and rotation.
 
 ---
 
