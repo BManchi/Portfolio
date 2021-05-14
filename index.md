@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Tercer Ojo](https://drive.google.com/file/d/1jiyhkCIRd9wTdX2ASREL40ajRrx3T_yP/view)
-<img src="mages/TercerOjo_demo.gif"/>
+<img src="images/TercerOjo_demo.gif"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
