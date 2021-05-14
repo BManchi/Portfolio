@@ -53,4 +53,4 @@ a text-based role-playing game with a complex history evolution and user interac
 
 
 ---
-<p style="font-size:11px"> <a href="">evanca</a></p>
+<p style="font-size:11px"> <a href=""></a></p>
