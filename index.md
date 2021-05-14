@@ -5,18 +5,16 @@
 ### Main Proyects 
 
 [Tercer Ojo](https://drive.google.com/file/d/1jiyhkCIRd9wTdX2ASREL40ajRrx3T_yP/view)
-<p></p>
+Participated in the development of a collection of 36 riddle games with creative uses of Android Services and resources, e.g, interacting with Clipboard System Service. 
 <img src="images/TercerOjo_demo.gif" height=400/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Contado o Cuotas](https://github.com/BManchi/Contadoocuotas)
+Developed a financial calculator to compare Cash versus Credit alternatives in a high inflationary economy through the calculation of Net Present Value financial formula.
+Using AndroidX doAfterTextChanged() for fluent and responsive calculations. 
+<img src="images/ContadoOCuotas_demo.gif" height=400/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
 
 ### Other relevant proyects
 
