@@ -5,7 +5,7 @@
 ### Main Proyects 
 
 [Tercer Ojo](https://drive.google.com/file/d/1jiyhkCIRd9wTdX2ASREL40ajRrx3T_yP/view)
-is a collection of 36 riddle games with creative uses of Android Services and resources, e.g, interacting with Clipboard System Service.
+is a collection of 36 riddle games with creative uses of Android Services and resources, e.g., interacting with Clipboard System Service.
 
 <img src="images/TercerOjo_demo.gif" height=400/>
 
@@ -18,9 +18,12 @@ Using AndroidX doAfterTextChanged() for fluent and responsive calculations.
 
 ---
 [Developing](https://github.com/BManchi/Juego)
-a text-based role playing game with a complex history evolution and user interaction, all stored in a SQLite Database.
+a text-based role-playing game with a complex history evolution and user interaction, all stored in a SQLite Database.
 
 <img src="images/Juego_demo.gif" height=400/>
+
+
+---
 
 ### Other relevant proyects
 
@@ -28,11 +31,26 @@ a text-based role playing game with a complex history evolution and user interac
 - [FlickrBrowser](https://github.com/BManchi/FlickrBrowser) queries Flickr.com images through Json.
 - [Calculator](https://github.com/BManchi/Calculator) is developed with integrated keyboard wich adapts to screen size and rotation.
 
----
-
-
-
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
+### Soft Competencies
+
+- Teamwork
+- Ability to work under preassure
+- Adaptable/Flexible
+- Honest
+- Responsible
+- Inventive/Curious
+
+### Professional Culture
+
+- Results Oriented
+- Analytical
+- Decisive
+- Customer Oriented
+- Efficient
+
+
+---
+<p style="font-size:11px"> <a href="">evanca</a></p>
