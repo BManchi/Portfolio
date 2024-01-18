@@ -4,6 +4,24 @@
 
 ### Main Proyects 
 
+[Bankuish](https://www.bankuish.com/) 
+is a startup that aims to solve the financial struggles of gig workers and the future of work solving the gap between the platforms that it's users use for wokr and the data and risk analysis that traditional financial entities use for their products. 
+
+<img src="images/bankuish_demo_br.gif" height=400/>
+
+---
+[New Horizon PPD for EntryReady](https://www.entryready.com/)
+is an Admin tool to manage and setup EntryReady's system devices (IoT door locks) through the hardware supplier SDK for bluetooth connectiviy. 
+
+---
+[HomeBanking 3.0](https://play.google.com/store/apps/details?id=com.redlink.android_hb3.rioja)
+is a white-label app used by several public and private banks in Argentina that leverages on product-flavor configs to customize the UI for each Client needs. 
+
+ | La Rioja Bank | La Pampa Bank | Columbia | Montemar | 
+ | -----------   |  ---------    | -----    | ------   |
+ | <img src="images/banco_la_rioja.png" height=400/>   |  <img src="images/banco_la_pampa.png" height=400/>  | <img src="images/banco_columbia" height=400/>   | <img src="images/banco_montemar" height=400/>   |
+
+---
 [Tercer Ojo](https://drive.google.com/file/d/1jiyhkCIRd9wTdX2ASREL40ajRrx3T_yP/view)
 is a collection of 36 riddle games with creative uses of Android Services and resources, e.g., interacting with Clipboard System Service.
 
