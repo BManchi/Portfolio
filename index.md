@@ -5,7 +5,7 @@
 ### Main Proyects 
 
 [Bankuish](https://www.bankuish.com/) 
-is a startup that aims to solve the financial struggles of gig workers and the future of work solving the gap between the platforms that it's users use for wokr and the data and risk analysis that traditional financial entities use for their products. 
+is a startup that aims to solve the financial struggles of gig workers and the future of work solving the gap between the platforms that it's users use for work and the data and risk analysis that traditional financial entities use for their products. 
 
 <img src="images/bankuish_demo_br.gif" height=400/>
 
