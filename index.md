@@ -19,7 +19,7 @@ is a white-label app used by several public and private banks in Argentina that 
 
  | La Rioja Bank | La Pampa Bank | Columbia | Montemar | 
  | -----------   |  ---------    | -----    | ------   |
- | <img src="images/banco_la_rioja.png" height=400/>   |  <img src="images/banco_la_pampa.png" height=400/>  | <img src="images/banco_columbia" height=400/>   | <img src="images/banco_montemar" height=400/>   |
+ | <img src="images/banco_la_rioja.png" height=150/>   |  <img src="images/banco_la_pampa.png" height=150 width=225/>  | <img src="images/banco_columbia.png" height=150/>   | <img src="images/banco_montemar.png" height=150/>   |
 
 ---
 [Tercer Ojo](https://drive.google.com/file/d/1jiyhkCIRd9wTdX2ASREL40ajRrx3T_yP/view)
